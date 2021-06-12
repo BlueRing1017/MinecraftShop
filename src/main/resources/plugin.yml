@@ -1,0 +1,8 @@
+name: Untitle
+version: @version@
+main: kotlinlesson1.untitle.Untitle
+api-version: 1.16
+authors: [ BlueRing1017 ]
+description: KotlinLesson1
+commands:
+  vc:
